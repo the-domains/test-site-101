@@ -1,0 +1,28 @@
+name: test-site-101
+favicon: null
+layout_spectrum: 0.6878712382167578
+typography_spectrum: 0.5432825186289847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4362478735856712
+  lightness: 0.44660888984799385
+  saturation: 0.7381492941640317
+  rhythmicContrast: 0.22839190065860748
+purpose: []
